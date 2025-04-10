@@ -1,0 +1,10 @@
+__pycache__/
+test.csv
+qr_code.png
+whatsapp_cookies.pkl
+build/
+dist/
+main.spec
+main.exe
+Output/
+checkout.html
